@@ -1,7 +1,7 @@
 /* fonts */
 @import url('../fonts/Carto/stylesheet.css');
 
-/* parts */
+/* почему не робе parts */
 @import url('/parts/_reset.css');
 @import url('/parts/_main.css');
 @import url('/parts/_navbar.css');
